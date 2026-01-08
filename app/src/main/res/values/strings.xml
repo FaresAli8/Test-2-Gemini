@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartQR</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_generate">Generate</string>
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="enter_content">Enter text or URL</string>
+    <string name="generate_btn">Generate QR Code</string>
+    <string name="share_btn">Share</string>
+</resources>

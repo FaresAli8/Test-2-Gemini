@@ -1,0 +1,9 @@
+{
+  "projectName": "SmartQR",
+  "packageName": "com.example.smartqr",
+  "sdkVersion": 34,
+  "language": "Kotlin",
+  "framework": "Jetpack Compose",
+  "buildSystem": "Gradle",
+  "description": "A QR Code Scanner and Generator app using CameraX, MLKit, and ZXing."
+}
